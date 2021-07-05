@@ -14,3 +14,11 @@ List of top startups
 Apply from
 1. [hasjob](https://hasjob.co/)
 
+Resume sections :
+1. Portfolio
+2. Experience
+3. Projects
+4. Github
+5. Linkdin
+6. Communiuty work 
+8. Blog
