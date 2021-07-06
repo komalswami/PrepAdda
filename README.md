@@ -1,3 +1,7 @@
+```
+You attract what you are, not what you want. If you want great, then be great.
+```
+
 List of top startups
 
 1. [gojek](https://career.gojek.com/)
@@ -21,4 +25,12 @@ Resume sections :
 4. Github
 5. Linkdin
 6. Communiuty work 
-8. Blog
+- [GDG](https://developers.google.com/community/gdg)
+- [Google Developer Groups Community Organizers](https://developers.google.com/community/gdg/organizers)
+- [GDE](https://developers.google.com/community/experts)
+- [google for startups](https://startup.google.com/)
+
+8. Tech Blog
+- [medium](https://medium.com/)
+- [dev.to](https://dev.to/)
+- [linkdin blog](https://blog.linkedin.com/)
