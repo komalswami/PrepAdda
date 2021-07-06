@@ -26,6 +26,7 @@ Resume sections :
 5. Linkdin
 6. Communiuty work 
 - [GDG](https://developers.google.com/community/gdg)
+- [join GDG here](https://gdg.community.dev/gdg-pune/)
 - [Google Developer Groups Community Organizers](https://developers.google.com/community/gdg/organizers)
 - [GDE](https://developers.google.com/community/experts)
 - [google for startups](https://startup.google.com/)
