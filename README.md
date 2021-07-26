@@ -35,3 +35,6 @@ Resume sections :
 - [medium](https://medium.com/)
 - [dev.to](https://dev.to/)
 - [linkdin blog](https://blog.linkedin.com/)
+
+9. Apti prep
+-[InterviewBit](https://www.interviewbit.com/)
