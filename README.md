@@ -38,3 +38,7 @@ Resume sections :
 
 9. Apti prep
 -[InterviewBit](https://www.interviewbit.com/)
+
+10. System Design 
+-[Gaurav Sen youtube](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
+-[Interview Ready](https://get.interviewready.io/)
