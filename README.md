@@ -45,3 +45,4 @@ Resume sections :
 
 
 -[Readme Writer/Helper](https://readme.so/editor)
+-[github readme guide](https://medium.com/theleanprogrammer/a-beginner-guide-to-writing-a-stunning-github-profile-readme-6ee0e211f5a8)
