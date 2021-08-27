@@ -46,3 +46,6 @@ Resume sections :
 
 -[Readme Writer/Helper](https://readme.so/editor)
 -[github readme guide](https://medium.com/theleanprogrammer/a-beginner-guide-to-writing-a-stunning-github-profile-readme-6ee0e211f5a8)
+https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+
+https://github.com/rahuldkjain/github-profile-readme-generator
