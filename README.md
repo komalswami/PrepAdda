@@ -49,3 +49,13 @@ Resume sections :
 https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 
 https://github.com/rahuldkjain/github-profile-readme-generator
+
+
+practice platforms
+1. https://www.codingame.com/start
+2. https://exercism.io/
+3. https://cssbattle.dev/
+4. https://codesignal.com/
+5. https://www.pramp.com/
+6. https://www.frontendmentor.io/
+7. https://www.codewell.cc/
