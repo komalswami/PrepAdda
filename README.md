@@ -59,3 +59,5 @@ practice platforms
 5. https://www.pramp.com/
 6. https://www.frontendmentor.io/
 7. https://www.codewell.cc/
+
+https://www.theaimonk.com/projects
