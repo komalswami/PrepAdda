@@ -31,27 +31,19 @@ Resume sections :
 - [GDE](https://developers.google.com/community/experts)
 - [google for startups](https://startup.google.com/)
 
-8. Tech Blog
+7. Tech Blog
 - [medium](https://medium.com/)
 - [dev.to](https://dev.to/)
 - [linkdin blog](https://blog.linkedin.com/)
 
-9. Apti prep
+8. Apti prep
 -[InterviewBit](https://www.interviewbit.com/)
 
-10. System Design 
+9. System Design 
 -[Gaurav Sen youtube](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
 -[Interview Ready](https://get.interviewready.io/)
 
-
--[Readme Writer/Helper](https://readme.so/editor)
--[github readme guide](https://medium.com/theleanprogrammer/a-beginner-guide-to-writing-a-stunning-github-profile-readme-6ee0e211f5a8)
-https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-
-https://github.com/rahuldkjain/github-profile-readme-generator
-
-
-practice platforms
+10.practice platforms
 1. https://www.codingame.com/start
 2. https://exercism.io/
 3. https://cssbattle.dev/
@@ -60,5 +52,13 @@ practice platforms
 6. https://www.frontendmentor.io/
 7. https://www.codewell.cc/
 
-https://www.theaimonk.com/projects
+
+11. Resume Maker
 https://flowcv.io/
+
+12 .Design Readme
+
+-[Readme Writer/Helper](https://readme.so/editor)
+-[github readme guide](https://medium.com/theleanprogrammer/a-beginner-guide-to-writing-a-stunning-github-profile-readme-6ee0e211f5a8)
+-[readme helper](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md)
+-[Readme helper github](https://github.com/rahuldkjain/github-profile-readme-generator)
