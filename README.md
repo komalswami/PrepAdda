@@ -1,10 +1,6 @@
 ```
 You attract what you are, not what you want. If you want great, then be great.
 ```
-## AchievementsOf.Life
-
-A place to document all your achievements (even the smallest ones).
-
 ## Motivation behind this.
 
 We often came accross many useful resources ,tools ,courses which might be useful for other students as well,so its our endeavour to list them over here to help others 
