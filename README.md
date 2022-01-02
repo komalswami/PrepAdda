@@ -1,6 +1,13 @@
 ```
 You attract what you are, not what you want. If you want great, then be great.
 ```
+## AchievementsOf.Life
+
+A place to document all your achievements (even the smallest ones).
+
+## Motivation behind this.
+
+We often came accross many useful resources ,tools ,courses which might be useful for other students as well,so its our endover to list them over here to help others 
 
 List of top startups
 
@@ -62,3 +69,13 @@ https://flowcv.io/
 2. [github readme guide](https://medium.com/theleanprogrammer/a-beginner-guide-to-writing-a-stunning-github-profile-readme-6ee0e211f5a8)
 3. [readme helper](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md)
 4. [Readme helper github](https://github.com/rahuldkjain/github-profile-readme-generator)
+
+
+
+## Contribution
+
+Please feel free to contribute to this project. In case you want to add more quality resources ,tools  or anything else, raise a PR for it ⚡️
+
+Have a nice day 🌻
+
+Twitter - [Komal Swami](https://twitter.com/TechEra41746442)
