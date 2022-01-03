@@ -1,43 +1,43 @@
-1 mg
-Adobe
-Airtel X Labs
-AJIO
-Amadeus Labs
-Amagi
-Amazon
-American Express
-Apna
-Apple
-Arcesium
-Atlassian
-Bharat Pay
-BlackBuck
-BMC Software
-BNY Mellon
-Boeing
-Browser Stack
-Buki Warung
-Cadence
-Cashfree
-Celigo
-Chronus
-Cisco
-Citrix
-Codenation
-Coin switch Kuber
-Cred
-Cure Fit
-DE Shaw
-Delhivery
-Dell
-Deutsche Bank
-Directi
-Discovery inc
-DP World
-Dream 11
-Druva
-Expedia
-EY
+- 1 mg
+- Adobe
+- Airtel X Labs
+- AJIO
+- Amadeus Labs
+- Amagi
+- Amazon
+- American Express
+- Apna
+- Apple
+- Arcesium
+- Atlassian
+- Bharat Pay
+- BlackBuck
+- BMC Software
+- BNY Mellon
+- Boeing
+- Browser Stack
+- Buki Warung
+- Cadence
+- Cashfree
+- Celigo
+- Chronus
+- Cisco
+- Citrix
+- Codenation
+- Coin switch Kuber
+- Cred
+- Cure Fit
+- DE Shaw
+- Delhivery
+- Dell
+- Deutsche Bank
+- Directi
+- Discovery inc
+- DP World
+- Dream 11
+- Druva
+- Expedia
+- EY
 Facebook
 Fractal Analytics
 Fidelity Investments
