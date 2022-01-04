@@ -38,45 +38,45 @@
 - Druva
 - Expedia
 - EY
-Facebook
-Fractal Analytics
-Fidelity Investments
-FireEye inc
-Fisher Jordan
-Flipkart
-Fractal Analytics
-FreeCharge
-GE Healthcare
-Gojek
-Goldman Sachs
-Google
-Grab
-Grofers
-Groww
-Healthify ME
-Here Technologies
-Hotstar
-HP
-IBM
-Impact Analytics
-Indeed
-Inmobi
-Intel
-Intuit
-Innovaccer
-ISRO
-Jaguar
-Jio
-JP Morgan
-Jupiter Money
-Juspay
-Kesari Bharat
-Khatabook
-Land Rover
-Licious
-Linkedin
-Lowe's Companies inc.
-Mastercard
+- Facebook
+- Fractal Analytics
+- Fidelity Investments
+- FireEye inc
+- Fisher Jordan
+- Flipkart
+- Fractal Analytics
+- FreeCharge
+- GE Healthcare
+- Gojek
+- Goldman Sachs
+- Google
+- Grab
+- Grofers
+- Groww
+- Healthify ME
+- Here Technologies
+- Hotstar
+- HP
+- IBM
+- Impact Analytics
+- Indeed
+- Inmobi
+- Intel
+- Intuit
+- Innovaccer
+- ISRO
+- Jaguar
+- Jio
+- JP Morgan
+- Jupiter Money
+- Juspay
+- Kesari Bharat
+- Khatabook
+- Land Rover
+- Licious
+- Linkedin
+- Lowe's Companies inc.
+- Mastercard
 Media Net
 Micron
 Microsoft
